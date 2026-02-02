@@ -1,0 +1,908 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuNode.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3rdPersonPlayer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Box.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projectile.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:collision.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Box.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhysicsBody3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CharacterBody3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PhysicsBody3D.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projectile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityDashPad.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityLauncher.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityDashPad.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\SphereShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\SphereShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CollisionShape.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BigSprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MenuNode.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BigSprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntitySpawner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StaticMesh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Camera.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntitySpawner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CharacterBody3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:collision.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StaticMesh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:3rdPersonPlayer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Camera.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityLauncher.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Node.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\MeshShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\MeshShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CollisionObject3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CollisionObject3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DroneFirstPerson.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DroneFirstPerson.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\Shape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\Shape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\Makefile||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CollisionTypes.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\AABBShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CollisionShape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\AABBShape3D.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\Resource.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.h||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\BoxShape3D.h||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\CapsuleShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\CapsuleShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\BoxShape3D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 52,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuNode.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.cpp",
+              "RelativeDocumentMoniker": "MenuNode.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.cpp",
+              "RelativeToolTip": "MenuNode.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T16:58:13.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MenuNode.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.h",
+              "RelativeDocumentMoniker": "MenuNode.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\MenuNode.h",
+              "RelativeToolTip": "MenuNode.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-01T16:58:21.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityDashPad.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.cpp",
+              "RelativeDocumentMoniker": "EntityDashPad.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.cpp",
+              "RelativeToolTip": "EntityDashPad.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T21:15:37.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EntityDashPad.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.h",
+              "RelativeDocumentMoniker": "EntityDashPad.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityDashPad.h",
+              "RelativeToolTip": "EntityDashPad.h",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-29T21:15:30.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EntityLauncher.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.cpp",
+              "RelativeDocumentMoniker": "EntityLauncher.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.cpp",
+              "RelativeToolTip": "EntityLauncher.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwCAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T21:15:19.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EntityLauncher.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.h",
+              "RelativeDocumentMoniker": "EntityLauncher.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntityLauncher.h",
+              "RelativeToolTip": "EntityLauncher.h",
+              "ViewState": "AgIAABoAAAAAAAAAAAArwDEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-29T21:15:12.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EntitySpawner.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.cpp",
+              "RelativeDocumentMoniker": "EntitySpawner.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.cpp",
+              "RelativeToolTip": "EntitySpawner.cpp",
+              "ViewState": "AgIAAC8AAAAAAAAAAAArwDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-29T21:14:57.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EntitySpawner.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.h",
+              "RelativeDocumentMoniker": "EntitySpawner.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\EntitySpawner.h",
+              "RelativeToolTip": "EntitySpawner.h",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-29T21:14:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BigSprite.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.cpp",
+              "RelativeDocumentMoniker": "BigSprite.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.cpp",
+              "RelativeToolTip": "BigSprite.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAwEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-27T17:22:04.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BigSprite.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.h",
+              "RelativeDocumentMoniker": "BigSprite.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\BigSprite.h",
+              "RelativeToolTip": "BigSprite.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-27T17:21:57.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "3rdPersonPlayer.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.cpp",
+              "RelativeDocumentMoniker": "3rdPersonPlayer.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.cpp",
+              "RelativeToolTip": "3rdPersonPlayer.cpp",
+              "ViewState": "AgIAAIoBAAAAAAAAAAArwKEBAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-21T16:13:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "3rdPersonPlayer.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.h",
+              "RelativeDocumentMoniker": "3rdPersonPlayer.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\3rdPersonPlayer.h",
+              "RelativeToolTip": "3rdPersonPlayer.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAkwDwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-21T16:13:36.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "projectile.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.h",
+              "RelativeDocumentMoniker": "projectile.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.h",
+              "RelativeToolTip": "projectile.h",
+              "ViewState": "AgIAACMAAAAAAAAAAAArwDoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-25T16:01:29.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projectile.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.cpp",
+              "RelativeDocumentMoniker": "projectile.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\projectile.cpp",
+              "RelativeToolTip": "projectile.cpp",
+              "ViewState": "AgIAAIsAAAAAAAAAAAArwKQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-25T16:01:22.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CharacterBody3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.cpp",
+              "RelativeDocumentMoniker": "CharacterBody3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.cpp",
+              "RelativeToolTip": "CharacterBody3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-08T19:33:29.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CharacterBody3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.h",
+              "RelativeDocumentMoniker": "CharacterBody3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CharacterBody3D.h",
+              "RelativeToolTip": "CharacterBody3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-01-08T19:33:12.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PhysicsBody3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.h",
+              "RelativeDocumentMoniker": "PhysicsBody3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.h",
+              "RelativeToolTip": "PhysicsBody3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T21:01:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhysicsBody3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.cpp",
+              "RelativeDocumentMoniker": "PhysicsBody3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\PhysicsBody3D.cpp",
+              "RelativeToolTip": "PhysicsBody3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T21:02:16.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CollisionTypes.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionTypes.h",
+              "RelativeDocumentMoniker": "CollisionTypes.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionTypes.h",
+              "RelativeToolTip": "CollisionTypes.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-22T18:16:54.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CollisionObject3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.cpp",
+              "RelativeDocumentMoniker": "CollisionObject3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.cpp",
+              "RelativeToolTip": "CollisionObject3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-10T19:43:12.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CollisionObject3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.h",
+              "RelativeDocumentMoniker": "CollisionObject3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionObject3D.h",
+              "RelativeToolTip": "CollisionObject3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-10T19:42:52.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SphereShape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\SphereShape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.cpp",
+              "RelativeToolTip": "resources\\SphereShape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:23:27.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MeshShape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\MeshShape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.cpp",
+              "RelativeToolTip": "resources\\MeshShape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:50:45.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MeshShape3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.h",
+              "RelativeDocumentMoniker": "resources\\MeshShape3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\MeshShape3D.h",
+              "RelativeToolTip": "resources\\MeshShape3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:50:36.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Makefile",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\Makefile",
+              "RelativeDocumentMoniker": "..\\Makefile",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\Makefile",
+              "RelativeToolTip": "..\\Makefile",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-09T18:15:25.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AABBShape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\AABBShape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.cpp",
+              "RelativeToolTip": "resources\\AABBShape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:23:57.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AABBShape3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.h",
+              "RelativeDocumentMoniker": "resources\\AABBShape3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\AABBShape3D.h",
+              "RelativeToolTip": "resources\\AABBShape3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:23:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SphereShape3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.h",
+              "RelativeDocumentMoniker": "resources\\SphereShape3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\SphereShape3D.h",
+              "RelativeToolTip": "resources\\SphereShape3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:23:17.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CapsuleShape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\CapsuleShape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\CapsuleShape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\CapsuleShape3D.cpp",
+              "RelativeToolTip": "resources\\CapsuleShape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:22:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Resource.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.cpp",
+              "RelativeDocumentMoniker": "resources\\Resource.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.cpp",
+              "RelativeToolTip": "resources\\Resource.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:21:16.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "BoxShape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\BoxShape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.cpp",
+              "RelativeToolTip": "resources\\BoxShape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:22:23.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BoxShape3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.h",
+              "RelativeDocumentMoniker": "resources\\BoxShape3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\BoxShape3D.h",
+              "RelativeToolTip": "resources\\BoxShape3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:22:12.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Shape3D.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.h",
+              "RelativeDocumentMoniker": "resources\\Shape3D.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.h",
+              "RelativeToolTip": "resources\\Shape3D.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:21:43.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Shape3D.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.cpp",
+              "RelativeDocumentMoniker": "resources\\Shape3D.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Shape3D.cpp",
+              "RelativeToolTip": "resources\\Shape3D.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-09T16:21:38.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.h",
+              "RelativeDocumentMoniker": "resources\\Resource.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\resources\\Resource.h",
+              "RelativeToolTip": "resources\\Resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-09T16:21:27.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CollisionShape.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.cpp",
+              "RelativeDocumentMoniker": "CollisionShape.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.cpp",
+              "RelativeToolTip": "CollisionShape.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T20:30:35.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CollisionShape.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.h",
+              "RelativeDocumentMoniker": "CollisionShape.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\CollisionShape.h",
+              "RelativeToolTip": "CollisionShape.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T20:26:06.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "collision.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.h",
+              "RelativeDocumentMoniker": "collision.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.h",
+              "RelativeToolTip": "collision.h",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-08T19:10:34.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "collision.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.cpp",
+              "RelativeDocumentMoniker": "collision.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\collision.cpp",
+              "RelativeToolTip": "collision.cpp",
+              "ViewState": "AgIAANgAAAAAAAAAAAArwPMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-08T19:10:33.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "lightBlock.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.h",
+              "RelativeToolTip": "..\\..\\..\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.h",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-20T19:55:31.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "lightBlock.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.cpp",
+              "RelativeToolTip": "..\\..\\..\\examples\\24_hdr_bloom\\src\\actors\\lightBlock.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAlwEMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-20T19:55:30.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DroneFirstPerson.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.h",
+              "RelativeDocumentMoniker": "DroneFirstPerson.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.h",
+              "RelativeToolTip": "DroneFirstPerson.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAlwAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-17T14:41:56.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Node.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.h",
+              "RelativeDocumentMoniker": "Node.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.h",
+              "RelativeToolTip": "Node.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAArwDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T03:21:25.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Node.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.cpp",
+              "RelativeDocumentMoniker": "Node.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Node.cpp",
+              "RelativeToolTip": "Node.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAArwF4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T03:23:11.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DroneFirstPerson.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.cpp",
+              "RelativeDocumentMoniker": "DroneFirstPerson.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\DroneFirstPerson.cpp",
+              "RelativeToolTip": "DroneFirstPerson.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T14:41:54.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Camera.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.h",
+              "RelativeDocumentMoniker": "Camera.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.h",
+              "RelativeToolTip": "Camera.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T00:50:30.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Camera.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.cpp",
+              "RelativeDocumentMoniker": "Camera.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Camera.cpp",
+              "RelativeToolTip": "Camera.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T15:44:46.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Box.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.cpp",
+              "RelativeDocumentMoniker": "Box.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.cpp",
+              "RelativeToolTip": "Box.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-17T14:50:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Box.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.h",
+              "RelativeDocumentMoniker": "Box.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\Box.h",
+              "RelativeToolTip": "Box.h",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-17T14:50:50.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StaticMesh.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.cpp",
+              "RelativeDocumentMoniker": "StaticMesh.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.cpp",
+              "RelativeToolTip": "StaticMesh.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADYAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T00:50:26.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StaticMesh.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.h",
+              "RelativeDocumentMoniker": "StaticMesh.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\StaticMesh.h",
+              "RelativeToolTip": "StaticMesh.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T00:50:26.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-10-12T00:49:45.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\klono\\OneDrive\\Documents\\2025N64DEV\\tiny3d\\games\\Engine64_Game\\src\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAH0CAAAAAAAAAAAAAJwCAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-12T00:49:46.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
